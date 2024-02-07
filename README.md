@@ -1,4 +1,4 @@
-# Example Home Assistant add-on repository
+# Roaby's Home Assistant add-on repository
 
 This repository is used to store my addon repos
 
