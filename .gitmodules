@@ -1,3 +1,4 @@
-[submodule "ModbusTCP2MQTT"]
-	path = ModbusTCP2MQTT
+[submodule "ModbusTCP2MQTT-FIX_PyCrypt"]
+	path = ModbusTCP2MQTT-FIX_PyCrypt
 	url = https://github.com/roabyd/ModbusTCP2MQTT-FIX_PyCrypt
+	
