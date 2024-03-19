@@ -2,3 +2,6 @@
 	path = ModbusTCP2MQTT
 	url = https://github.com/roabyd/ModbusTCP2MQTT
 	
+[submodule "hassio-repository"]
+	path = hassio-repository
+	url = https://github.com/mefisto22/hassio-repository.git
